@@ -1,0 +1,4 @@
+turhan_oz_drag_drop:
+    resource: "@TurhanOzDragDropBundle/Controller"
+    type:     annotation
+    prefix:   /
